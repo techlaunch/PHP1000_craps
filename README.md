@@ -1,2 +1,2 @@
-# PHP1000_craps
+# PHP1000_dice
 Throw a dice randomly
